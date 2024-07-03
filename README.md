@@ -17,10 +17,6 @@ ReadMe is a feature-rich blog application using the MERN (MongoDB, Express.js, R
 - **Frontend:** React
 - **Database:** MongoDB
 
-## Note
-
-The project is still ongoing, and further updates will be added to this README as new features are implemented.
-
 ## Author
 
 Nuwanthika Sandaruwani
